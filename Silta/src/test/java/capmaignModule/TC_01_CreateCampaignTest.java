@@ -2,7 +2,7 @@ package capmaignModule;
 
 import org.testng.annotations.Test;
 
-public class TC_01_CreateCampaign 
+public class TC_01_CreateCampaignTest 
 {
 	@Test
 	public void createCampaign()
